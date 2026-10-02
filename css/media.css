@@ -427,7 +427,7 @@
     width: 16%;
   }
   .container {
-    width:93%;
+    width: 93%;
   }
   #latest-articles .parent-latest .latest .all-icon {
     display: flex;
@@ -486,7 +486,7 @@
   #navbar .parent-nav .nav-items ul a:hover {
     color: #ff7a50;
   }
-  #navbar .parent-nav .nav-button button {
+  #navbar .parent-nav .nav-button .subscribe-button {
     background-color: #ffd15b;
     border: 2px solid;
     font-size: 14px;
@@ -496,7 +496,7 @@
     border-radius: 20px;
     transition: 0.3s ease;
   }
-  #navbar .parent-nav .nav-button button:hover {
+  #navbar .parent-nav .nav-button .subscribe-button:hover {
     transform: translate(3px, 3px);
   }
   #mobile-menu,
